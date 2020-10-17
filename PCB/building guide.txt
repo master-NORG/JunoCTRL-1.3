@@ -1,0 +1,19 @@
+1. IC Sockets!  This must be done first before anything
+2. Resistors, 220, 2.2K, 470 ohm, 1K, Diodes, Ceramic Capacitors (little yellow guys), tactile buttons
+3. Resistor Networks (square yellow things, MUST BE PUT THE CORRECT ORIENTATION)
+4. Voltage regulator, Electrolytic Capacitor
+5. Side JST PH sockets (white ribbon cable sockets)
+6. 6-position rotary switches (two of them, and make sure to put them in the right spot, they are ridiculously expensive)
+7. Potentiometers
+8. 4-position rotary switches (four of them)
+9. Red Leds
+10. Header sockets for arduino
+11.You are now finished the main board, yay. Now do the back panel PCB.
+
+Back Panel:
+1. Start with JST top sockets
+2. 2-position and 3-position switches, do not overheat.
+3. DC Socket, make sure it's straight and lots of solder
+4. Midi Sockets, make sure flush against board
+
+All done, attach the ribbon cable.
