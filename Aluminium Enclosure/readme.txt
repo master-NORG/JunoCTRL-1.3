@@ -1,0 +1,1 @@
+send these files to Takashi Enclosure in Japan to have a case made.  CF27-18BB is the case we use, it's a sturdy black aluminium case.  Takashi Enclosure is great, I've never had a single issue with any of their orders and they are fast.
